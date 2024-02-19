@@ -13,12 +13,12 @@ const Footer = () => {
   return (
     <footer id="footer">
       <div className="leftFooter">
-        <h4>DOWNLOAD OUR APP</h4>
+        <h4>DOWNLOAD </h4>
         <img src={playStore} alt="playStore" />
         <img src={appStore} alt="appStore" />
       </div>
       <div className="midFooter">
-        <h1>JewishShop</h1>
+        <h1>my-digital-Shop</h1>
         <p>High Quality is our first priority</p>
         <p>Copyrights 2022 &copy; Efrat Donat</p>
       </div>
