@@ -1,4 +1,4 @@
-# Welcome to JewishShop!
+# My digital Judaica Shop
 
 Greetings, intrepid shoppers! I'm Eliyahu Gez, the wizard behind JewishShop. Brace yourselves for an electrifying journey through the world of online shopping like never before!
 
